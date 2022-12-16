@@ -1,7 +1,7 @@
 
-
-
-
+  ### About me:
+- Computer Science Student
+- Currently learning: Next.js and Improving my Typescript and CSS skills.
 
 ## 🛠 &nbsp;Skills
 
