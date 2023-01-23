@@ -1,7 +1,7 @@
 
   ### About me:
 - Computer Science Student
-- Currently learning: Next.js, MaterialUI and improving my Typescript and CSS skills.
+- Currently learning: Next.js, Tailwind.css and improving my Typescript and CSS skills.
 - Interest in learning : Backend Development (Node.js or Python)
 
 ## 🛠 &nbsp;Skills
