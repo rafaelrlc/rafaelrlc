@@ -1,8 +1,10 @@
 
   ### About me:
-- Computer Science Student
-- Currently learning: Next.js, Tailwind.css and improving my Typescript and CSS skills.
-- Interest in learning : Backend Development (Node.js or Python)
+- Computer Science Student and Software Developer
+
+- Currently learning: Backend Development (Node.js) and improving my Typescript and CSS skills.
+- Working with: React.js and Next.js.
+
 
 ## 🛠 &nbsp;Skills
 
