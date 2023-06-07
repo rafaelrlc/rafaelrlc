@@ -2,8 +2,8 @@
   ### About me:
 - Computer Science Student and Software Developer
 
-- Currently learning: Backend Development with Java (Spring Boot).
-- Working with: React.js and TypeScript.
+- Currently learning: Backend Development with Java (Spring Boot) and Swift (IOS Development).
+- Working with: React.js, Express.js.
 
 
 ## 🛠 &nbsp;Skills
