@@ -1,9 +1,7 @@
 
-  ### About me:
+   ### About me:
 - Computer Science Student and Software Developer
-
-- Currently learning: Backend Development with Java (Spring Boot).
-- Working with: React.js, Express.js.
+- Working with: React.js, Next.js, Spring Boot.
 
 
 ## 🛠 &nbsp;Skills
