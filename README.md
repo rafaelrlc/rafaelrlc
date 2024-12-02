@@ -1,7 +1,7 @@
 
    ### About me:
 - Computer Science Student and Software Developer
-- Working with: React.js, Next.js, Spring Boot.
+- Working with: React.js, Next.js, Tailwind, Python, FastAPI and LLMs.
 
 
 ## 🛠 &nbsp;Skills
