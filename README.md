@@ -1,7 +1,7 @@
 
    ### About me:
 - Computer Science Student and Software Developer
-- Currently working with: React.js, Next.js, Tailwind, Python, FastAPI, SQL and LangChain/LLMs.
+- Currently working with: Python, FastAPI, SQL, GCP, React.js, Next.js, Tailwind.
 
 
 ## 🛠 &nbsp;Skills
