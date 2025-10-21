@@ -1,9 +1,3 @@
-
-   ### About me:
-- Computer Science Student and Software Developer
-- Currently working with: Python, FastAPI, SQL, GCP, React.js, Next.js, Tailwind.
-
-
 ## 🛠 &nbsp;Skills
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
